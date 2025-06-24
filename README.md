@@ -1,14 +1,27 @@
 
 
-## Step 3: プルリクエストのマージ
+<!--
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
+-->
 
-_コンフリクトを回避したので正しい内容をマージしよう :wave:_
+## Finish
 
-### :keyboard: Activity: プルリクエストのマージ
+_おめでとうございます!!このコースを修了しました!!_
 
-1. GitHubの画面にて、`No conflicts with base branch`(コンフリクト無し)のメッセージを確認し、`Merge Pull requests`のリンクを押します。
-1. `my-resume`ブランチを削除します(オプション)。
+<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
 
-約20秒待ってから、このページ(あなたが指示を受けているページ)を更新してください。GitHub Actionsが自動的に次のステップに更新されます。
+このコースで学んだことのまとめ
+
+- VSCodeを使いローカル端末にリモートブランチをクローンしました。
+- マージコンフリクトを回避するために、VSCodeでローカルのブランチのファイルを正しい状態に修正し、リモートブランチへPull requestsしました。
+- Mergeを行う際にマージコンフリクトが発生していないことを確認しました。
+
+### What's next?
+
+- GitHub Pages で自分だけの Markdown 履歴書サイトを作りましょう！次のコースでその方法を学べます [GitHub Pages](https://github.com/skills/github-pages)
+- [他のGitHub Skillsコース](https://github.com/skills)を受講しましょう
+- [GitHub入門ドキュメント](https://docs.github.com/en/get-started)を読みましょう
+- [GitHub Explore](https://github.com/explore)で他のプロジェクトを探索しましょう
 
 
